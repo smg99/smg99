@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on .Net Core RestAPI using WebAPI/Function App, Vuejs, JavaScript, Azure (Function App, Logic Apps, WebJobs, App services and much more)
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on any JavaScript Framework
+- 📫 How to reach me: sumitg3767@gmail.com
+- 😄 Pronouns: him/his
+
+
 <!--
 **smg99/smg99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
