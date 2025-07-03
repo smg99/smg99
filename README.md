@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **.Net Core RestAPI using WebAPI/Function App, Vuejs, JavaScript, Azure (Function App, Logic Apps, WebJobs, App services and few more)**
 
-- 🌱 I’m currently learning **react**
-
 - 💬 Ask me about **angular, vue, .net core and azure**
 
 - 📫 How to reach me **sumitg3767@gmail.com**
