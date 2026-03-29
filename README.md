@@ -82,12 +82,5 @@ If you need help with:
 📩 Reach out:
 
 * Email: [sumitg3767@gmail.com](mailto:sumitg3767@gmail.com)
-* LinkedIn: (add your link)
 
 ---
-
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smg99&show_icons=true&locale=en" />
-</p>
