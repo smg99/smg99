@@ -1,86 +1,205 @@
-<h1 align="center">Hi 👋, I'm Sumit</h1>
-<h3 align="center">Frontend Consultant | Angular • React • Vue • Next.js • Nuxt.js</h3>
+
+<img width="1536" height="1024" alt="AI-Native Developer Tools Brand Kit" src="https://github.com/user-attachments/assets/815abe51-d05a-4182-95ba-5ae66a71868c" />
+
 
 <p align="center">
-Helping startups & product teams build <b>scalable, high-performance UI systems</b>
+
+# 🚀 Building AI-Native Developer Platforms
+
+### Creator of **Frontend Performance Lab**, **FactoryOS** & **Ticket Flow**
+
+Building AI-powered developer tools that help engineering teams write better software, ship faster, and automate the software development lifecycle.
+
+**AI Agents • Developer Experience (DevEx) • TypeScript • MCP • Static Analysis • Open Source**
+
 </p>
 
 ---
 
-## 💼 What I Do
+# 👋 Hi, I'm Sumit Gajjar
 
-I work with teams to solve real frontend challenges:
+I'm a **Software Architect** with **14+ years** of experience building enterprise SaaS applications, developer platforms, and modern frontend architectures.
 
-* 🧱 Architect scalable frontend applications (Angular / React / Vue)
-* ⚡ Improve performance of large, slow UIs
-* 🎯 Build reusable component systems & clean UI architecture
-* 🔄 Refactor legacy code into maintainable structure
-* 🌐 Develop SSR apps using Next.js & Nuxt.js
-* 🎨 Build fast landing pages & prototypes using Framer
+Today my primary focus is building **AI-native developer tools** that improve the way software is designed, analyzed, implemented and delivered.
+
+I enjoy building products where **AI augments engineering**, rather than replacing engineering thinking.
 
 ---
 
-## 🚀 Current Focus
+# 🌟 Current Ecosystem
 
-* Building production-grade UI architecture examples
-* Exploring performance optimization in large applications
-* Creating reusable frontend patterns
-
----
-
-## 📌 Featured Work
-
-### 🔹 Vue Utility Plugin
-
-👉 https://github.com/smg99/vue-detect-browser
-
-Lightweight browser detection plugin for Vue 3 apps
-
-* SSR friendly
-* Simple API
-* Easy integration
+```text
+                         🏭 FactoryOS
+                              │
+        ┌─────────────────────┼─────────────────────┐
+        │                     │                     │
+⚡ Frontend Performance Lab   🎫 Ticket Flow    🔌 Future Plugins
+        │
+        ▼
+ AI Agents • MCP • GitHub • CLI
+        │
+        ▼
+ Better Software Delivery
+```
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Featured Projects
 
-**Frontend**
+## ⚡ Frontend Performance Lab
 
-* Angular
-* React
-* Vue (Vue 3 + Composition API)
-* Next.js / Nuxt.js
+AI-powered frontend analysis platform for modern engineering teams.
 
-**UI Engineering**
+### Highlights
 
-* Component design systems
-* Responsive & accessible UI
-* Framer (rapid prototyping)
+- AST-based static analysis
+- Browser Knowledge Graph
+- AI optimization recipes
+- Performance diagnostics
+- MCP integration
+- CLI support
+- GitHub integration
 
-**Language**
+**Tech**
 
-* TypeScript, JavaScript
-
-**Testing**
-
-* Cypress (E2E)
-
-**Backend (supporting)**
-
-* .NET Core, Azure, REST APIs
+TypeScript • Node.js • AST • MCP • AI
 
 ---
 
-## 🤝 Let’s Work Together
+## 🏭 FactoryOS
 
-If you need help with:
+An autonomous AI Software Factory that orchestrates specialized AI agents across the complete software engineering lifecycle.
 
-* Scaling your frontend codebase
-* Improving performance
-* Building clean and maintainable UI systems
+### Highlights
 
-📩 Reach out:
+- Multi-agent orchestration
+- AI planning
+- Code implementation
+- Documentation generation
+- Quality gates
+- Release automation
+- Plugin architecture
 
-* Email: [sumitg3767@gmail.com](mailto:sumitg3767@gmail.com)
+**Tech**
+
+TypeScript • AI Agents • MCP • GitHub Actions • CLI
 
 ---
+
+## 🎫 Ticket Flow
+
+Transforms GitHub Issues into structured engineering execution workflows.
+
+### Highlights
+
+- Issue analysis
+- Task decomposition
+- Dependency tracking
+- AI execution planning
+- Workflow automation
+
+**Tech**
+
+TypeScript • GitHub API • AI • MCP
+
+---
+
+# 💡 Engineering Philosophy
+
+I believe AI should:
+
+- Improve engineering quality
+- Reduce repetitive work
+- Preserve developer control
+- Make software delivery more predictable
+- Help teams focus on solving problems
+
+Not replace software engineers.
+
+---
+
+# 🛠 Tech Focus
+
+| AI Engineering | Platform | Frontend |
+|---------------|----------|----------|
+| AI Agents | TypeScript | Vue |
+| MCP | Node.js | React |
+| Prompt Engineering | GitHub Actions | Angular |
+| Static Analysis | CLI | Nuxt |
+| DevEx | APIs | Performance |
+
+---
+
+# 📍 Currently Building
+
+- 🏭 FactoryOS
+- ⚡ Frontend Performance Lab
+- 🎫 Ticket Flow
+- 🤖 AI Engineering Workflows
+- 🧩 Developer Productivity Tools
+
+---
+
+# 🗺 Roadmap
+
+### 2026
+
+- ✅ Frontend Performance Lab Beta
+- 🚧 FactoryOS Core
+- 🚧 Ticket Flow
+- ⬜ VS Code Extension
+- ⬜ Cursor Extension
+- ⬜ Claude Integrations
+- ⬜ Plugin Marketplace
+- ⬜ Cloud Platform
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<!-- Replace username if required -->
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=smg99&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=smg99&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smg99&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+- 💼 LinkedIn
+- 🌐 Portfolio *(Coming Soon)*
+- 🐙 GitHub
+- 📫 Open to collaborating on AI Developer Tools & Open Source
+
+---
+
+# ❤️ Open Source
+
+If my work helps you, consider:
+
+⭐ Starring repositories
+
+🐛 Reporting issues
+
+💡 Suggesting ideas
+
+🤝 Contributing
+
+---
+
+<p align="center">
+
+**Building tools that empower developers, not replace them.**
+
+</p>
