@@ -196,6 +196,8 @@ If my work helps you, consider:
 
 🤝 Contributing
 
+☕ [Supporting the work](https://buymeacoffee.com/smg99)
+
 ---
 
 <p align="center">
