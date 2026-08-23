@@ -1,207 +1,81 @@
-
-<img width="1536" height="1024" alt="AI-Native Developer Tools Brand Kit" src="https://github.com/user-attachments/assets/815abe51-d05a-4182-95ba-5ae66a71868c" />
-
-
-<p align="center">
-
-# 🚀 Building AI-Native Developer Platforms
-
-### Creator of **Frontend Performance Lab**, **FactoryOS** & **Ticket Flow**
-
-Building AI-powered developer tools that help engineering teams write better software, ship faster, and automate the software development lifecycle.
-
-**AI Agents • Developer Experience (DevEx) • TypeScript • MCP • Static Analysis • Open Source**
-
-</p>
-
----
+<div align="center">
 
 # 👋 Hi, I'm Sumit Gajjar
 
-I'm a **Software Architect** with **14+ years** of experience building enterprise SaaS applications, developer platforms, and modern frontend architectures.
+### The Calm Engineer · Software Architect · AI Product Builder
 
-Today my primary focus is building **AI-native developer tools** that improve the way software is designed, analyzed, implemented and delivered.
+I build small, useful software and AI-native developer tools — shipping fast, learning in public, and sharing what actually works.
 
-I enjoy building products where **AI augments engineering**, rather than replacing engineering thinking.
+[![X](https://img.shields.io/badge/X-@thecalmengineer-111111?style=flat-square&logo=x)](https://x.com/thecalmengineer)
+[![GitHub](https://img.shields.io/badge/GitHub-@smg99-111111?style=flat-square&logo=github)](https://github.com/smg99)
+[![Support](https://img.shields.io/badge/Support-Buy%20me%20a%20coffee-f7c948?style=flat-square&logo=buymeacoffee)](https://buymeacoffee.com/smg99)
+
+</div>
 
 ---
 
-# 🌟 Current Ecosystem
+## 🚀 What I'm building
+
+I focus on **AI-native software, developer tools, automation, and fast experiments**.
 
 ```text
-                         🏭 FactoryOS
-                              │
-        ┌─────────────────────┼─────────────────────┐
-        │                     │                     │
-⚡ Frontend Performance Lab   🎫 Ticket Flow    🔌 Future Plugins
-        │
-        ▼
- AI Agents • MCP • GitHub • CLI
-        │
-        ▼
- Better Software Delivery
+Idea
+  ↓
+Build quickly
+  ↓
+Put it in users' hands
+  ↓
+Learn
+  ↓
+Ship again
 ```
 
----
+### Featured
 
-# 🚀 Featured Projects
+| Project | What it does |
+|---|---|
+| ⚡ [Frontend Performance Lab](https://github.com/smg99/frontend-performance-lab) | AI-powered frontend performance analysis, MCP, CLI and browser-performance tooling |
+| 🏭 [FactoryOS](https://github.com/smg99/factoryos) | Autonomous AI software-factory direction and orchestration experiments |
+| 🎫 [Ticket Flow](https://github.com/smg99/ticket-flow) | Turns engineering tickets into structured execution workflows |
+| 🧠 [FDE Lab](https://github.com/smg99/fde-lab) | AI-native forward-deployed engineering workers exposed as deterministic tools |
+| 🏙️ [Bhavnagar 3D Digital](https://github.com/smg99/bhavnagar-3d-digital) | Interactive 3D digital twin of Bhavnagar, Gujarat |
 
-## ⚡ Frontend Performance Lab
+## 🧪 Building in public
 
-AI-powered frontend analysis platform for modern engineering teams.
+I like experimenting with ideas that can be **built in hours, tested quickly, and improved only when the result proves useful**.
 
-### Highlights
+You can follow the journey on X:
 
-- AST-based static analysis
-- Browser Knowledge Graph
-- AI optimization recipes
-- Performance diagnostics
-- MCP integration
-- CLI support
-- GitHub integration
+**[@thecalmengineer](https://x.com/thecalmengineer)**
 
-**Tech**
+## 🛠️ Current interests
 
-TypeScript • Node.js • AST • MCP • AI
+**AI Agents** · **MCP** · **Developer Experience** · **TypeScript** · **Frontend Architecture** · **Vue / React / Nuxt** · **Automation** · **Open Source**
 
----
+## 💡 My philosophy
 
-## 🏭 FactoryOS
+> Build the smallest thing that can prove the idea.
 
-An autonomous AI Software Factory that orchestrates specialized AI agents across the complete software engineering lifecycle.
+I care less about building perfect systems on day one and more about **shipping, learning, and compounding**.
 
-### Highlights
+## 🤝 Open Source
 
-- Multi-agent orchestration
-- AI planning
-- Code implementation
-- Documentation generation
-- Quality gates
-- Release automation
-- Plugin architecture
+If something here helps you:
 
-**Tech**
+⭐ Star the repository · 🐛 Report an issue · 💡 Share an idea · 🤝 Contribute
 
-TypeScript • AI Agents • MCP • GitHub Actions • CLI
+## ☕ Support the work
 
----
+If a project saved you time or you simply enjoy following along, you can support the work here:
 
-## 🎫 Ticket Flow
+**[☕ Buy me a coffee](https://buymeacoffee.com/smg99)**
 
-Transforms GitHub Issues into structured engineering execution workflows.
-
-### Highlights
-
-- Issue analysis
-- Task decomposition
-- Dependency tracking
-- AI execution planning
-- Workflow automation
-
-**Tech**
-
-TypeScript • GitHub API • AI • MCP
+It helps me keep building and open-sourcing small useful tools.
 
 ---
 
-# 💡 Engineering Philosophy
+<div align="center">
 
-I believe AI should:
+**Building useful things. Staying calm. Shipping again.**
 
-- Improve engineering quality
-- Reduce repetitive work
-- Preserve developer control
-- Make software delivery more predictable
-- Help teams focus on solving problems
-
-Not replace software engineers.
-
----
-
-# 🛠 Tech Focus
-
-| AI Engineering | Platform | Frontend |
-|---------------|----------|----------|
-| AI Agents | TypeScript | Vue |
-| MCP | Node.js | React |
-| Prompt Engineering | GitHub Actions | Angular |
-| Static Analysis | CLI | Nuxt |
-| DevEx | APIs | Performance |
-
----
-
-# 📍 Currently Building
-
-- 🏭 FactoryOS
-- ⚡ Frontend Performance Lab
-- 🎫 Ticket Flow
-- 🤖 AI Engineering Workflows
-- 🧩 Developer Productivity Tools
-
----
-
-# 🗺 Roadmap
-
-### 2026
-
-- ✅ Frontend Performance Lab Beta
-- 🚧 FactoryOS Core
-- 🚧 Ticket Flow
-- ⬜ VS Code Extension
-- ⬜ Cursor Extension
-- ⬜ Claude Integrations
-- ⬜ Plugin Marketplace
-- ⬜ Cloud Platform
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<!-- Replace username if required -->
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=smg99&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=smg99&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smg99&layout=compact&hide_border=true"/>
-
-</p>
-
----
-
-# 🤝 Let's Connect
-
-- 💼 LinkedIn
-- 🌐 Portfolio *(Coming Soon)*
-- 🐙 GitHub
-- 📫 Open to collaborating on AI Developer Tools & Open Source
-
----
-
-# ❤️ Open Source
-
-If my work helps you, consider:
-
-⭐ Starring repositories
-
-🐛 Reporting issues
-
-💡 Suggesting ideas
-
-🤝 Contributing
-
-☕ [Supporting the work](https://buymeacoffee.com/smg99)
-
----
-
-<p align="center">
-
-**Building tools that empower developers, not replace them.**
-
-</p>
+</div>
