@@ -1,81 +1,80 @@
 <div align="center">
 
-# 👋 Hi, I'm Sumit Gajjar
+<img src="https://raw.githubusercontent.com/smg99/smg99/main/assets/profile-orbit.svg" alt="The Calm Engineer — Build. Learn. Ship again." width="900" />
 
-### The Calm Engineer · Software Architect · AI Product Builder
+# Sumit Gajjar
 
-I build small, useful software and AI-native developer tools — shipping fast, learning in public, and sharing what actually works.
+**Software Architect · AI Product Builder · The Calm Engineer**
 
-[![X](https://img.shields.io/badge/X-@thecalmengineer-111111?style=flat-square&logo=x)](https://x.com/thecalmengineer)
-[![GitHub](https://img.shields.io/badge/GitHub-@smg99-111111?style=flat-square&logo=github)](https://github.com/smg99)
-[![Support](https://img.shields.io/badge/Support-Buy%20me%20a%20coffee-f7c948?style=flat-square&logo=buymeacoffee)](https://buymeacoffee.com/smg99)
+I build **AI-native software, autonomous workers, developer tools, and interfaces people enjoy using.**
+
+[Website](https://smg99.github.io) · [X / @thecalmengineer](https://x.com/thecalmengineer) · [Support the work](https://buymeacoffee.com/smg99)
 
 </div>
 
 ---
 
-## 🚀 What I'm building
+## What I'm building
 
-I focus on **AI-native software, developer tools, automation, and fast experiments**.
+I’m exploring what happens when software stops being a collection of features and becomes a **system of capable workers**.
 
 ```text
-Idea
-  ↓
-Build quickly
-  ↓
-Put it in users' hands
-  ↓
-Learn
-  ↓
-Ship again
+        IDEA
+         ↓
+   Build the smallest proof
+         ↓
+      Ship it
+         ↓
+   Put it in real hands
+         ↓
+       Learn
+         ↓
+   Make the next one better
 ```
 
-### Featured
+### Selected projects
 
-| Project | What it does |
+| Project | Direction |
 |---|---|
-| ⚡ [Frontend Performance Lab](https://github.com/smg99/frontend-performance-lab) | AI-powered frontend performance analysis, MCP, CLI and browser-performance tooling |
-| 🏭 [FactoryOS](https://github.com/smg99/factoryos) | Autonomous AI software-factory direction and orchestration experiments |
-| 🎫 [Ticket Flow](https://github.com/smg99/ticket-flow) | Turns engineering tickets into structured execution workflows |
-| 🧠 [FDE Lab](https://github.com/smg99/fde-lab) | AI-native forward-deployed engineering workers exposed as deterministic tools |
-| 🏙️ [Bhavnagar 3D Digital](https://github.com/smg99/bhavnagar-3d-digital) | Interactive 3D digital twin of Bhavnagar, Gujarat |
+| 🏭 **[FactoryOS](https://github.com/smg99/factoryos)** | AI workers, orchestration, memory, execution and the foundations of an autonomous software factory |
+| ⚡ **[Frontend Performance Lab](https://github.com/smg99/frontend-performance-lab)** | AI-powered frontend performance analysis, MCP, CLI and browser tooling |
+| 🧠 **[FDE Lab](https://github.com/smg99/fde-lab)** | Forward-deployed engineering workers exposed as deterministic tools |
+| 🎫 **[Ticket Flow](https://github.com/smg99/ticket-flow)** | Turning engineering intent into structured execution workflows |
+| 🏙️ **[Bhavnagar 3D Digital](https://github.com/smg99/bhavnagar-3d-digital)** | An interactive 3D digital-twin experiment rooted in Gujarat |
 
-## 🧪 Building in public
+> **The pattern:** build something small → make it useful → automate what repeats → let the system compound.
 
-I like experimenting with ideas that can be **built in hours, tested quickly, and improved only when the result proves useful**.
+---
 
-You can follow the journey on X:
+## What I care about
 
-**[@thecalmengineer](https://x.com/thecalmengineer)**
+**AI Agents** · **Autonomous Workers** · **MCP** · **Developer Experience** · **Automation** · **Frontend Architecture** · **TypeScript** · **React / Vue / Nuxt** · **Motion & Interaction Design** · **Open Source**
 
-## 🛠️ Current interests
+### My engineering bias
 
-**AI Agents** · **MCP** · **Developer Experience** · **TypeScript** · **Frontend Architecture** · **Vue / React / Nuxt** · **Automation** · **Open Source**
+- **Small before large.** Prove the idea before building the cathedral.
+- **Useful before impressive.** Fancy is welcome; useless is not.
+- **UX is part of the system.** Motion, feedback and clarity are product behavior, not decoration.
+- **Automation compounds.** A good worker should make the next piece of work cheaper.
+- **Public by default.** Share the experiments, the failures and the things that actually work.
+- **Stay calm.** Reduce noise. Make the next good decision. Ship again.
 
-## 💡 My philosophy
+---
 
-> Build the smallest thing that can prove the idea.
+## Building in public
 
-I care less about building perfect systems on day one and more about **shipping, learning, and compounding**.
+Most of my work is an ongoing laboratory rather than a fixed product roadmap. Some experiments become products. Some become infrastructure. Some teach me what **not** to build.
 
-## 🤝 Open Source
+If you're interested in **AI-native products, developer tools, autonomous digital workers, or unusually good web experiences**, that's the territory I'm exploring.
 
-If something here helps you:
+→ **[Follow the journey on X](https://x.com/thecalmengineer)**
 
-⭐ Star the repository · 🐛 Report an issue · 💡 Share an idea · 🤝 Contribute
-
-## ☕ Support the work
-
-If a project saved you time or you simply enjoy following along, you can support the work here:
-
-**[☕ Buy me a coffee](https://buymeacoffee.com/smg99)**
-
-It helps me keep building and open-sourcing small useful tools.
+→ **[Explore the live site](https://smg99.github.io)**
 
 ---
 
 <div align="center">
 
-**Building useful things. Staying calm. Shipping again.**
+### Build useful things. Make them delightful. Stay calm. Ship again.
 
 </div>
