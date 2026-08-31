@@ -1,0 +1,20 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Calm Engineer — AI systems, automation and delightful interfaces">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="900" height="220" rx="24" fill="#09090b"/>
+  <circle cx="450" cy="110" r="74" fill="#a78bfa" opacity=".12" filter="url(#blur)"/>
+  <circle cx="450" cy="110" r="44" fill="url(#g)" opacity=".85">
+    <animate attributeName="r" values="44;49;44" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <g fill="none" stroke="url(#g)" opacity=".35">
+    <ellipse cx="450" cy="110" rx="150" ry="48"><animateTransform attributeName="transform" type="rotate" from="0 450 110" to="360 450 110" dur="10s" repeatCount="indefinite"/></ellipse>
+    <ellipse cx="450" cy="110" rx="220" ry="75"><animateTransform attributeName="transform" type="rotate" from="360 450 110" to="0 450 110" dur="15s" repeatCount="indefinite"/></ellipse>
+  </g>
+  <circle cx="300" cy="110" r="5" fill="#67e8f9"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="670" cy="110" r="5" fill="#c4b5fd"><animate attributeName="opacity" values=".3;1;.3" dur="2.7s" repeatCount="indefinite"/></circle>
+  <text x="450" y="48" fill="#71717a" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" letter-spacing="4">THE CALM ENGINEER</text>
+  <text x="450" y="119" fill="white" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="middle">Build. Learn. Ship again.</text>
+  <text x="450" y="150" fill="#a1a1aa" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">AI-native software · autonomous workers · developer tools · UX</text>
+</svg>
