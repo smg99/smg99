@@ -32,15 +32,29 @@ I’m exploring what happens when software stops being a collection of features 
    Make the next one better
 ```
 
-### Selected projects
+## Public projects
 
-| Project | Direction |
-|---|---|
-| 🏭 **[FactoryOS](https://github.com/smg99/factoryos)** | AI workers, orchestration, memory, execution and the foundations of an autonomous software factory |
-| ⚡ **[Frontend Performance Lab](https://github.com/smg99/frontend-performance-lab)** | AI-powered frontend performance analysis, MCP, CLI and browser tooling |
-| 🧠 **[FDE Lab](https://github.com/smg99/fde-lab)** | Forward-deployed engineering workers exposed as deterministic tools |
-| 🎫 **[Ticket Flow](https://github.com/smg99/ticket-flow)** | Turning engineering intent into structured execution workflows |
-| 🏙️ **[Bhavnagar 3D Digital](https://github.com/smg99/bhavnagar-3d-digital)** | An interactive 3D digital-twin experiment rooted in Gujarat |
+This section is generated automatically from my public GitHub repositories. **Last updated:** 2026-09-04 UTC.
+
+| Project | Description | Last updated |
+|---|---|---|
+| [vue-detect-browser](https://github.com/smg99/vue-detect-browser) | | 2026-08-23 |
+| [smg99.github.io](https://github.com/smg99/smg99.github.io) | | 2026-09-03 |
+| [hansaa](https://github.com/smg99/hansaa) | | 2026-08-23 |
+| [ticket-flow](https://github.com/smg99/ticket-flow) | | 2026-08-23 |
+| [bhavnagar-3d-digital](https://github.com/smg99/bhavnagar-3d-digital) | | 2026-08-23 |
+| [frontend-performance-lab](https://github.com/smg99/frontend-performance-lab) | | 2026-08-23 |
+| [ui-genome](https://github.com/smg99/ui-genome) | | 2026-09-01 |
+| [react.dev](https://github.com/smg99/react.dev) | | 2026-08-23 |
+| [core](https://github.com/smg99/core) | | 2026-08-23 |
+| [docs](https://github.com/smg99/docs) | | 2026-08-23 |
+| [shopify-ai-engineering-playbook](https://github.com/smg99/shopify-ai-engineering-playbook) | | 2026-09-03 |
+| [ai-native-engineer-roadmap](https://github.com/smg99/ai-native-engineer-roadmap) | | 2026-08-23 |
+| [pay-skills](https://github.com/smg99/pay-skills) | | 2026-09-03 |
+| [fde-lab](https://github.com/smg99/fde-lab) | | 2026-09-03 |
+| [compute-worker](https://github.com/smg99/compute-worker) | | 2026-09-03 |
+
+> The table above is maintained by GitHub Actions. Private repositories are never included.
 
 > **The pattern:** build something small → make it useful → automate what repeats → let the system compound.
 
