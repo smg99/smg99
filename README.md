@@ -34,6 +34,7 @@ I’m exploring what happens when software stops being a collection of features 
 
 ## Public projects
 
+<!-- PUBLIC_PROJECTS_START -->
 This section is generated automatically from my public GitHub repositories. **Last updated:** 2026-09-04 UTC.
 
 | Project | Description | Last updated |
@@ -55,6 +56,7 @@ This section is generated automatically from my public GitHub repositories. **La
 | [compute-worker](https://github.com/smg99/compute-worker) | | 2026-09-03 |
 
 > The table above is maintained by GitHub Actions. Private repositories are never included.
+<!-- PUBLIC_PROJECTS_END -->
 
 > **The pattern:** build something small → make it useful → automate what repeats → let the system compound.
 
