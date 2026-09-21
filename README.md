@@ -39,15 +39,15 @@ This table is generated automatically from my public GitHub repositories. Privat
 
 | Project | Description | Last updated |
 |---|---|---|
+| [smg99.github.io](https://github.com/smg99/smg99.github.io) | Sumit Gajjar — software architect and AI product builder portfolio, showcasing client websites, products, experiments, and engineering work. | 2026-09-20 |
+| [compute-worker](https://github.com/smg99/compute-worker) | Reusable local execution infrastructure for products that need authorized, policy-controlled local compute. | 2026-09-20 |
+| [frontend-performance-lab](https://github.com/smg99/frontend-performance-lab) | AI-powered frontend performance platform featuring static analysis, Browser API knowledge graph, MCP server, interactive experiments and production recipes. | 2026-09-20 |
 | [docs](https://github.com/smg99/docs) | 📄 Documentation for Vue 3 | 2026-07-31 |
-| [smg99.github.io](https://github.com/smg99/smg99.github.io) | Sumit Gajjar — software architect and AI product builder portfolio, showcasing client websites, products, experiments, and engineering work. | 2026-09-17 |
-| [frontend-performance-lab](https://github.com/smg99/frontend-performance-lab) | AI-powered frontend performance platform featuring static analysis, Browser API knowledge graph, MCP server, interactive experiments and production recipes. | 2026-08-24 |
 | [pay-skills](https://github.com/smg99/pay-skills) | Community registry of stablecoin-gated APIs that AI agents and the pay CLI can discover, route to, and pay through. | 2026-08-23 |
 | [OpenHands](https://github.com/smg99/OpenHands) | 🙌 OpenHands: AI-Driven Development | 2026-09-05 |
 | [hansaa](https://github.com/smg99/hansaa) | hansaa fair | 2026-09-04 |
 | [ai-native-engineer-roadmap](https://github.com/smg99/ai-native-engineer-roadmap) | A practical roadmap for becoming an AI-native software engineer, covering tools, workflows, agents, and production engineering. | 2026-09-04 |
 | [ui-genome](https://github.com/smg99/ui-genome) | Experimental UI intelligence project for analyzing and understanding reusable interface patterns and design systems. | 2026-09-04 |
-| [compute-worker](https://github.com/smg99/compute-worker) | Reusable local execution infrastructure for products that need authorized, policy-controlled local compute. | 2026-09-01 |
 | [shopify-ai-engineering-playbook](https://github.com/smg99/shopify-ai-engineering-playbook) | A reusable AI engineering playbook and lightweight agent harness for building, validating, and shipping Shopify apps with minimal complexity, cost, and repeated mistakes. | 2026-08-24 |
 | [fde-lab](https://github.com/smg99/fde-lab) | Open-source Forward Deployed Engineering lab for building, deploying, and demonstrating production-style AI solutions to real customer problems. | 2026-08-24 |
 | [bhavnagar-3d-digital](https://github.com/smg99/bhavnagar-3d-digital) | Interactive 3D digital twin of Bhavnagar, Gujarat, with city-scale buildings, planning tools, traffic, flood simulation, and live data. | 2026-08-23 |
