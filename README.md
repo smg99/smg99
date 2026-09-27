@@ -39,7 +39,7 @@ This table is generated automatically from my public GitHub repositories. Privat
 
 | Project | Description | Last updated |
 |---|---|---|
-| [smg99.github.io](https://github.com/smg99/smg99.github.io) | Sumit Gajjar — software architect and AI product builder portfolio, showcasing client websites, products, experiments, and engineering work. | 2026-09-20 |
+| [smg99.github.io](https://github.com/smg99/smg99.github.io) | Sumit Gajjar — software architect and AI product builder portfolio, showcasing client websites, products, experiments, and engineering work. | 2026-09-27 |
 | [compute-worker](https://github.com/smg99/compute-worker) | Reusable local execution infrastructure for products that need authorized, policy-controlled local compute. | 2026-09-20 |
 | [frontend-performance-lab](https://github.com/smg99/frontend-performance-lab) | AI-powered frontend performance platform featuring static analysis, Browser API knowledge graph, MCP server, interactive experiments and production recipes. | 2026-09-20 |
 | [docs](https://github.com/smg99/docs) | 📄 Documentation for Vue 3 | 2026-07-31 |
