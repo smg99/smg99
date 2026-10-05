@@ -39,8 +39,9 @@ This table is generated automatically from my public GitHub repositories. Privat
 
 | Project | Description | Last updated |
 |---|---|---|
+| [remotion](https://github.com/smg99/remotion) | 🎥      Make videos programmatically with React | 2026-10-05 |
+| [frontend-performance-lab](https://github.com/smg99/frontend-performance-lab) | AI-powered frontend performance platform featuring static analysis, Browser API knowledge graph, MCP server, interactive experiments and production recipes. | 2026-10-05 |
 | [compute-worker](https://github.com/smg99/compute-worker) | Reusable local execution infrastructure for products that need authorized, policy-controlled local compute. | 2026-09-20 |
-| [frontend-performance-lab](https://github.com/smg99/frontend-performance-lab) | AI-powered frontend performance platform featuring static analysis, Browser API knowledge graph, MCP server, interactive experiments and production recipes. | 2026-09-20 |
 | [docs](https://github.com/smg99/docs) | 📄 Documentation for Vue 3 | 2026-07-31 |
 | [pay-skills](https://github.com/smg99/pay-skills) | Community registry of stablecoin-gated APIs that AI agents and the pay CLI can discover, route to, and pay through. | 2026-08-23 |
 | [OpenHands](https://github.com/smg99/OpenHands) | 🙌 OpenHands: AI-Driven Development | 2026-09-05 |
