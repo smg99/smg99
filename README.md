@@ -39,10 +39,11 @@ This table is generated automatically from my public GitHub repositories. Privat
 
 | Project | Description | Last updated |
 |---|---|---|
-| [TypeScript](https://github.com/smg99/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | 2026-10-09 |
-| [frontend-performance-lab](https://github.com/smg99/frontend-performance-lab) | AI-powered frontend performance platform featuring static analysis, Browser API knowledge graph, MCP server, interactive experiments and production recipes. | 2026-10-12 |
-| [query](https://github.com/smg99/query) | 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query. | 2026-10-11 |
 | [ui](https://github.com/smg99/ui) | Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. | 2026-10-06 |
+| [storybook](https://github.com/smg99/storybook) | Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation | 2026-10-12 |
+| [TypeScript](https://github.com/smg99/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | 2026-10-09 |
+| [frontend-performance-lab](https://github.com/smg99/frontend-performance-lab) | AI-powered frontend performance platform featuring static analysis, Browser API knowledge graph, MCP server, interactive experiments and production recipes. | 2026-10-13 |
+| [query](https://github.com/smg99/query) | 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query. | 2026-10-11 |
 | [remotion](https://github.com/smg99/remotion) | 🎥      Make videos programmatically with React | 2026-10-05 |
 | [compute-worker](https://github.com/smg99/compute-worker) | Reusable local execution infrastructure for products that need authorized, policy-controlled local compute. | 2026-09-20 |
 | [docs](https://github.com/smg99/docs) | 📄 Documentation for Vue 3 | 2026-07-31 |
