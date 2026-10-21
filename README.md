@@ -39,7 +39,8 @@ This table is generated automatically from my public GitHub repositories. Privat
 
 | Project | Description | Last updated |
 |---|---|---|
-| [engineering-ai-playbook](https://github.com/smg99/engineering-ai-playbook) | Public tool-agnostic AI engineering execution and prompt guide | 2026-10-20 |
+| [ticket-flow](https://github.com/smg99/ticket-flow) | A repeatable, high-discipline workflow pattern for Cursor agents: fetches issues, branches, implements, adds tests, runs human confirmation gates, commits, PRs, and notifies chat. | 2026-10-21 |
+| [engineering-ai-playbook](https://github.com/smg99/engineering-ai-playbook) | AI-Assisted SDLC Playbook — free, tool-agnostic AI software development lifecycle prompts from vague requirements to verified release. | 2026-10-21 |
 | [TypeScript](https://github.com/smg99/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | 2026-10-09 |
 | [prettier](https://github.com/smg99/prettier) | Prettier is an opinionated code formatter. | 2026-10-18 |
 | [ui](https://github.com/smg99/ui) | Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. | 2026-10-06 |
@@ -59,7 +60,6 @@ This table is generated automatically from my public GitHub repositories. Privat
 | [fde-lab](https://github.com/smg99/fde-lab) | Open-source Forward Deployed Engineering lab for building, deploying, and demonstrating production-style AI solutions to real customer problems. | 2026-08-24 |
 | [bhavnagar-3d-digital](https://github.com/smg99/bhavnagar-3d-digital) | Interactive 3D digital twin of Bhavnagar, Gujarat, with city-scale buildings, planning tools, traffic, flood simulation, and live data. | 2026-08-23 |
 | [vue-detect-browser](https://github.com/smg99/vue-detect-browser) | Plugin for Vue3 that detects browser name, version, and user-agent | 2026-08-23 |
-| [ticket-flow](https://github.com/smg99/ticket-flow) | A repeatable, high-discipline workflow pattern for Cursor agents: fetches issues, branches, implements, adds tests, runs human confirmation gates, commits, PRs, and notifies chat. | 2026-08-23 |
 | [core](https://github.com/smg99/core) | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | 2026-08-05 |
 | [react.dev](https://github.com/smg99/react.dev) | The React documentation website | 2026-07-31 |
 <!-- PUBLIC_PROJECTS_END -->
