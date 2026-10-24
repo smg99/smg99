@@ -41,12 +41,13 @@ jobs:
               per_page: 100
             });
 
+            // Exclude forks/archives/stubs. Do not require size>0 — new repos
+            // often report size 0 until GitHub recalculates.
             const publicRepos = repos.filter(repo =>
               repo.private === false &&
               repo.fork === false &&
               repo.archived === false &&
-              !exclude.has(repo.name) &&
-              (repo.size || 0) > 0
+              !exclude.has(repo.name)
             );
 
             const rows = [];
