@@ -26,6 +26,13 @@ jobs:
             const markerStart = '<!-- PUBLIC_PROJECTS_START -->';
             const markerEnd = '<!-- PUBLIC_PROJECTS_END -->';
 
+            // Empty / claim-only stubs — keep out of the table until they have real content.
+            const exclude = new Set([
+              profileRepo,
+              'ui-genome',
+              'ai-native-engineer-roadmap'
+            ]);
+
             const repos = await github.paginate(github.rest.repos.listForUser, {
               username: owner,
               type: 'owner',
@@ -34,8 +41,13 @@ jobs:
               per_page: 100
             });
 
-            const publicRepos = repos
-              .filter(repo => repo.private === false && repo.name !== profileRepo && repo.archived === false);
+            const publicRepos = repos.filter(repo =>
+              repo.private === false &&
+              repo.fork === false &&
+              repo.archived === false &&
+              !exclude.has(repo.name) &&
+              (repo.size || 0) > 0
+            );
 
             const rows = [];
 
@@ -68,7 +80,7 @@ jobs:
 
             const generated = [
               markerStart,
-              'This table is generated automatically from my public GitHub repositories. Private repositories are never included.',
+              'This table lists **original, non-fork** public repositories. Forks and empty stubs are excluded.',
               '',
               '| Project | Description | Last updated |',
               '|---|---|---|',
