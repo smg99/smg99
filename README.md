@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/smg99/smg99/main/assets/profile-orbit.svg" alt="The Calm Engineer — Build. Learn. Ship again." width="900" />
 
-# Sumit Gajjar
+# Sumit G
 
 **Frontend Architect · Design Engineer · The Calm Engineer**
 
