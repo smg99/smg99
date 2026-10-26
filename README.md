@@ -54,11 +54,11 @@ This table lists **original, non-fork** public repositories. Forks and empty stu
 
 | Project | Description | Last updated |
 |---|---|---|
+| [frontend-performance-lab](https://github.com/smg99/frontend-performance-lab) | AI-powered frontend performance platform featuring static analysis, Browser API knowledge graph, MCP server, interactive experiments and production recipes. | 2026-10-25 |
 | [rhino-deals-media](https://github.com/smg99/rhino-deals-media) | Auto-hosted product JPEGs for Rhino Deals IG API (written by publish_ig.py). No secrets. | 2026-10-25 |
 | [fde-lab](https://github.com/smg99/fde-lab) | Open-source Forward Deployed Engineering lab for building, deploying, and demonstrating production-style AI solutions to real customer problems. | 2026-10-25 |
 | [hansaa](https://github.com/smg99/hansaa) | Hansaa Fair — Vue product UI for event/fair workflows. | 2026-10-25 |
 | [smg99.github.io](https://github.com/smg99/smg99.github.io) | Portfolio — Frontend Architect / Design Engineer. Live hospitality UI, products, and engineering work. | 2026-10-01 |
-| [frontend-performance-lab](https://github.com/smg99/frontend-performance-lab) | AI-powered frontend performance platform featuring static analysis, Browser API knowledge graph, MCP server, interactive experiments and production recipes. | 2026-10-25 |
 | [ui-showcase](https://github.com/smg99/ui-showcase) | Curated live UI demos — hospitality and marketing sites clients can click through. | 2026-10-25 |
 | [ticket-flow](https://github.com/smg99/ticket-flow) | A repeatable, high-discipline workflow pattern for Cursor agents: fetches issues, branches, implements, adds tests, runs human confirmation gates, commits, PRs, and notifies chat. | 2026-10-23 |
 | [engineering-ai-playbook](https://github.com/smg99/engineering-ai-playbook) | AI-Assisted SDLC Playbook — free, tool-agnostic AI software development lifecycle prompts from vague requirements to verified release. | 2026-10-23 |
