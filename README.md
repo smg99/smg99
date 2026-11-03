@@ -54,7 +54,7 @@ This table lists **original, non-fork** public repositories. Forks and empty stu
 
 | Project | Description | Last updated |
 |---|---|---|
-| [frontend-performance-lab](https://github.com/smg99/frontend-performance-lab) | AI-powered frontend performance platform featuring static analysis, Browser API knowledge graph, MCP server, interactive experiments and production recipes. | 2026-11-02 |
+| [frontend-performance-lab](https://github.com/smg99/frontend-performance-lab) | AI-powered frontend performance platform featuring static analysis, Browser API knowledge graph, MCP server, interactive experiments and production recipes. | 2026-11-03 |
 | [rhino-deals-media](https://github.com/smg99/rhino-deals-media) | Auto-hosted product JPEGs for Rhino Deals IG API (written by publish_ig.py). No secrets. | 2026-10-25 |
 | [fde-lab](https://github.com/smg99/fde-lab) | Open-source Forward Deployed Engineering lab for building, deploying, and demonstrating production-style AI solutions to real customer problems. | 2026-10-25 |
 | [hansaa](https://github.com/smg99/hansaa) | Hansaa Fair — Vue product UI for event/fair workflows. | 2026-10-25 |
